@@ -18,8 +18,8 @@ This repository contains my hands-on learning journey in Machine Learning, cover
 
 ## Projects
 - 📊 Diamond Price Prediction
-- 📓 Day 1 - Machine Learning Fundamentals
-- More projects coming soon...
+- House Price Prediction
+- Food Delivery Time Prediction
 
 ## Tech Stack
 - Python
